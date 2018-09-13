@@ -69,8 +69,8 @@ map_celh = map_celw/2
 // called every... "tick"?
 // used to draw the screen.
 function _draw()
-		// clears the screen, to 
-		// prevent artifacts.
+  // clears the screen, to 
+  // prevent artifacts.
   cls()
   // moves the camera along
   // with the player's position.
